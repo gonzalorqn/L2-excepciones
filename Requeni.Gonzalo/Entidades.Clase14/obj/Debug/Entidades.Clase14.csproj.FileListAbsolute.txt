@@ -1,0 +1,6 @@
+D:\VisualStudio\Requeni.Gonzalo\Entidades.Clase14\bin\Debug\Entidades.Clase14.dll
+D:\VisualStudio\Requeni.Gonzalo\Entidades.Clase14\bin\Debug\Entidades.Clase14.pdb
+D:\VisualStudio\Requeni.Gonzalo\Entidades.Clase14\obj\Debug\Entidades.Clase14.csprojAssemblyReference.cache
+D:\VisualStudio\Requeni.Gonzalo\Entidades.Clase14\obj\Debug\Entidades.Clase14.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Requeni.Gonzalo\Entidades.Clase14\obj\Debug\Entidades.Clase14.dll
+D:\VisualStudio\Requeni.Gonzalo\Entidades.Clase14\obj\Debug\Entidades.Clase14.pdb
